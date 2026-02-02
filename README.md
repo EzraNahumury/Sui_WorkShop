@@ -22,7 +22,7 @@ Berikut adalah gambaran umum (garis besar) dari setiap project yang ada di dalam
 
 ## Frontend
 
-*   **`sui-workshop-fe-2`**
+*   **`fe-day2`**
     *   Aplikasi website untuk berinteraksi dengan smart contract (module) di atas.
     *   Fitur: Connect wallet, memanggil fungsi mint, transfer, dll.
 
